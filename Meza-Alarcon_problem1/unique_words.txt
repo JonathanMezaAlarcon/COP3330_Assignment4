@@ -1,0 +1,1 @@
+[[h, a, v, e], [e, v, e, r, y, t, h, i, n, g], [t, e, s, t], [f, o, r], [i, s], [o, n], [t, h, i, s], [d, o, c, u, m, e, n, t], [e, n, d, s], [t, h, e], [w, h, e, n], [s, h, o, u, l, d], [e, n, d, s, ,], [m, y], [n, o, t], [a, s, s, i, g, n, m, e, n, t], [o, o, p], [h, e, r, e], [r, e, p, e, a, t, s, .], [a, s, s, i, g, n, m, e, n, t, .], [p, r, o, g, r, a, m]]
